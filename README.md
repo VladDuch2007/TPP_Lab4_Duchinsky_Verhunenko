@@ -2,8 +2,7 @@
 
 **Topic:** Development of Static and Dynamic Libraries. Implicit and Explicit Linking.
 
-**Group:** FIT-3-17  
-**Variant:** 8
+**Group:** FIT-3-17
 
 ## Team Members
 
